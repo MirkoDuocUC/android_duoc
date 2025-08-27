@@ -24,6 +24,15 @@ class MainActivity : AppCompatActivity() {
 
 
 
+
+
+
+
+
+
+
+
+
         //inicializamos variables de elementos layout
         val edUsername:EditText = findViewById(R.id.ed_username)
         val edPasswd:EditText = findViewById(R.id.ed_password)
